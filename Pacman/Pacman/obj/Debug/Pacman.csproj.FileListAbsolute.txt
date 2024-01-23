@@ -1,0 +1,11 @@
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Pacman\Pacman\obj\Debug\Pacman.pdb
